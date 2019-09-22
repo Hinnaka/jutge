@@ -16,9 +16,4 @@ int main(){
 		cout<<n3<<endl;
 	}
 	
-	
-	
-	
-	
-	
 }
